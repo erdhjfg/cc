@@ -32,6 +32,3 @@ cbit_IR.onPressEvent(RemoteButton.NEXT, function () {
     basic.showString("Next>>|")
 })
 cbit_IR.init(Pins.P0)
-basic.forever(function () {
-	
-})
